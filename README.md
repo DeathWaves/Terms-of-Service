@@ -13,12 +13,12 @@ Mass Mute Specialist is designed to provide a voice channel wide Mute/Deafen usi
 
 4. User Responsibilities
 
-Compliance: You agree to comply with Discord’s Terms of Service and Community Guidelines while using Mass Mute Specialist.
-Prohibited Activities: You must not use Mass Mute Specialist for any illegal, harmful, or abusive activities. This includes, but is not limited to, harassment and spamming.
+- Compliance: You agree to comply with Discord’s Terms of Service and Community Guidelines while using Mass Mute Specialist.
+- Prohibited Activities: You must not use Mass Mute Specialist for any illegal, harmful, or abusive activities. This includes, but is not limited to, harassment and spamming.
 
 5. Privacy
 
-[Mass Mute Specialist] may collect and store certain data to enhance user experience. This data may include user IDs and other information necessary for the bot’s operation. We do not sell or share your data with third parties without your consent, except as required by law.
+Mass Mute Specialist may collect and store certain data to enhance user experience. This data may include user IDs and other information necessary for the bot’s operation. We do not sell or share your data with third parties without your consent, except as required by law.
 
 For more information on how we handle your data, please review our Privacy Policy (https://github.com/DeathWaves/Privacy-Policy/blob/main/README.md).
 
